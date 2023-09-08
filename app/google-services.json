@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "209448494576",
+    "firebase_url": "https://testing-23a39-default-rtdb.firebaseio.com",
+    "project_id": "testing-23a39",
+    "storage_bucket": "testing-23a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209448494576:android:5e5645e6c29174ca2ba935",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209448494576-eg4k8nqq4q7nt1qksneth6n0h2qp1jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Ddnm0-xoXxjTakrRV56754NP1ZmRyHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209448494576-eg4k8nqq4q7nt1qksneth6n0h2qp1jua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209448494576:android:5d09d09180da0a112ba935",
+        "android_client_info": {
+          "package_name": "com.jay.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209448494576-eg4k8nqq4q7nt1qksneth6n0h2qp1jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Ddnm0-xoXxjTakrRV56754NP1ZmRyHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209448494576-eg4k8nqq4q7nt1qksneth6n0h2qp1jua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209448494576:android:6df4ee2827e4669c2ba935",
+        "android_client_info": {
+          "package_name": "com.testing.testingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209448494576-eg4k8nqq4q7nt1qksneth6n0h2qp1jua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Ddnm0-xoXxjTakrRV56754NP1ZmRyHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209448494576-eg4k8nqq4q7nt1qksneth6n0h2qp1jua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
